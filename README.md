@@ -85,3 +85,6 @@ git clone https://github.com/ruecat/ollama-telegram
 
 ## Libraries used
 + [Aiogram 3.x](https://github.com/aiogram/aiogram)
+
+
+407 was here
